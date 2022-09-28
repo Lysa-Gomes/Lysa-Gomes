@@ -3,10 +3,10 @@
 - 🌱 Estudando React.js e Next.js.
 - 📫 Contate-me em laysagomesmello9@gmail.com.
 - 😄 Pronouns: Ela/Dela.
-<div align="center" style="display: inline">
+<div align="center" style="display: inline-block">
   <a href="https://github.com/Lysa-Gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lysa-Gomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysa-Gomes&layout=compact&langs_count=7&theme=radical"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lysa-Gomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysa-Gomes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
